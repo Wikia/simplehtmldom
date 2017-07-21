@@ -5,5 +5,8 @@
     "require": {},
     "autoload": {
         "classmap": ["simple_html_dom.php"]
+    },
+    "archive": {
+        "exclude": ["/app", "/example", "/manual", "/testcase"]
     }
 }
