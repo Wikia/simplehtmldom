@@ -1,6 +1,7 @@
 {
     "name": "wikia/simplehtmldom",
     "description": "A simple PHP HTML DOM parser written in PHP5+, supports invalid HTML, and provides a very easy way to handle HTML elements.",
+    "license": "MIT",
     "type": "library",
     "require": {},
     "autoload": {
